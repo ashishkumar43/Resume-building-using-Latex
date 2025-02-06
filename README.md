@@ -1,4 +1,4 @@
-# Resume-building-using-Latex
+# Resume Building Using Latex
 
 ## Check it out! 🎉
 👇
